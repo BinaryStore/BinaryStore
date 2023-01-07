@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PrimeTechStore
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning to live
+- 💞️ I’m looking to collaborate on my Laziness
+- 📫 How to reach me OptimizedBinary@gmail.com
