@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrimeTechStore
+- 👋 Hi, I’m @BinaryStore
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning to live
 - 💞️ I’m looking to collaborate on my Laziness
